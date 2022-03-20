@@ -1,2 +1,2 @@
 # Color-Picker
-Created with CodeSandbox
+Demo Link:https://csb-x2xnhs.netlify.app/
